@@ -6,12 +6,12 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm Anya</h1>
+<h1 align="center">Привет👋 Меня зовут Аня</h1>
 
 ###
 
 <div align="center">
-  <a href="annaseryseva523@gmail.com" target="_blank">
+  <a href="mailto:annaseryseva523@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo"  />
   </a>
   <a href="https://t.me/nusya_1" target="_blank">
@@ -23,13 +23,13 @@
 </div>
 
 
-### 👩‍💻  About me
+### 👩‍💻  Обо мне
 ---
 
-<p align="left">Frontend developer with a great desire to grow in this direction and develop wires, cool, user-friendly websites.<br> New interesting ideas for implementing the user interface and implementing them in my projects is my main goal.⚡</p>
+<p align="left">Frontend-разработчик с огромным желанием развиваться в этом направлении и разрабатывать крутые, удобные для пользователя веб-сайты.<br>Новые интересные идеи по реализации пользовательского интерфейса и их внедрение в свои проекты - моя главная цель.⚡</p>
 
 
-## 🛠️ Technologies
+## 🛠️ Технологии
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
