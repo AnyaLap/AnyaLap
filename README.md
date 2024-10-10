@@ -51,7 +51,7 @@
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaLap&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2&card_width=320"
-      alt="languages graph"
+      alt="AnyaLap's languages graph"
     />
   </a>  
 </div>
