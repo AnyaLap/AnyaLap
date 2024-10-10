@@ -50,19 +50,10 @@
    <a href="https://github.com/AnyaLap/AnyaLap/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaLap&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2&card_width=320"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaLap&layout=compact&langs_count=6"
       alt="AnyaLap's languages graph"
     />
   </a>  
 </div>
-<p align="center">
-   <a href="https://github.com/AnyaLap/AnyaLap/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyaLap&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2"
-      alt="AnyaLap's top langs stats"
-    />
-  </a>  
-</p>
 
 ###
