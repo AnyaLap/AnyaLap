@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp1dmt1eGpzbmx0d2t0OWQwYjR6YmhjY2xuaHVsamY3dWMzbHRvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif'/>
+  <img height="200" width="400" src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp1dmt1eGpzbmx0d2t0OWQwYjR6YmhjY2xuaHVsamY3dWMzbHRvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif'/>
 </div>
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Аня</h1>
+<h1 align="center">Привет <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Меня зовут Аня!</h1>
 
 ###
 
@@ -16,9 +16,6 @@
   </a>
   <a href="https://t.me/nusya_1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://vk.com/serysheva_a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Vkontakte &logo=vk&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
 </div>
 
@@ -41,6 +38,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+
 
 </div>
 
